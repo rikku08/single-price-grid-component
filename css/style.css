@@ -110,6 +110,7 @@ article {
 
 .main-header {
     color: var(--cyan);
+    margin-bottom: 20px;
 }
 
 .sub-header {
